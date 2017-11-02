@@ -1,3 +1,3 @@
 # hello-world
-Tutorial repositary
+Tutorial repository
 changes made by myself
